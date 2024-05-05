@@ -1,8 +1,52 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Modern Bank Site Design
 
-Currently, two official plugins are available:
+Modern bank site design using React JS, Vite and Tailwindcss technologies.
+## To use
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Make sure you have Node.js on your computer.
+
+- Download the source codes and then open them in VS Code Editor.
+## Run on Your Computer
+
+Clone the project
+
+```bash
+  git clone https://github.com/yusabozkus/modern-bank-ui
+```
+
+Go to the project directory
+
+```bash
+  cd modern-bank-ui-main
+```
+
+Install required packages
+
+```bash
+  npm install
+```
+
+Run the server
+
+```bash
+  npm run start
+```
+
+  
+## Demo
+
+
+[Go Live Demo](https://modern-bank-ui-fuezdev.netlify.app/)
+
+  
+## Screenshot
+
+![Screenshot](https://i.ibb.co/jRTfppL/landing-page.png)
+
+  
+## Feedbacks
+
+If you have any feedback, please contact us at fuezdev@gmail.com.
+
+  
